@@ -1,5 +1,5 @@
 
-### For a detailed explanation of the methods used here for the cost-sensetive health dataset, please refer to: ["Nutrition and Health Data for Cost-Sensitive Learning"](https://github.com/mkachuee/OpportunisticData/raw/master/Paper.pdf)
+### For a detailed explanation of the methods used here for the cost-sensetive health dataset, please refer to: ["Nutrition and Health Data for Cost-Sensitive Learning"](https://arxiv.org/abs/1902.07102)
 
 ### For a detailed explanation of the opportunsic learning method, please refer to: ["Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams"](https://openreview.net/forum?id=S1eOHo09KX)
 
