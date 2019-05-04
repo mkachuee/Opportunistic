@@ -3,6 +3,8 @@
 
 ### For a detailed explanation of the opportunsic learning method, please refer to: ["Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams"](https://openreview.net/forum?id=S1eOHo09KX)
 
+### Link to a preprocessed version of the diabetes dataset [diabetes.pkl](https://drive.google.com/file/d/10KfOQ1N6QKHc9XB9lq3ib96H4APhlygI/view?usp=sharing)
+
 ## File list:
 - **nhanes.py:** implementation of the data preprocessing logic as well as definition of a few example datasets such as diabetes, heart disease, hypertention, etc.
 - **Demo_Dataset.ipynb:** Jupyter notebook file to demonstrate the basic usage of each sample dataset.
