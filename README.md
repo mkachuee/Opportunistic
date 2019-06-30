@@ -22,4 +22,4 @@
 If you find this repository useful, please cite the following papers:
 
 * M. Kachuee, O. Goldstein, K. Kärkkäinen, S. Darabi, M. Sarrafzadeh, Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams, International Conference on Learning Representations (ICLR), 2019. [Paper](https://openreview.net/forum?id=S1eOHo09KX)
-* M. Kachuee, K. Kärkkäinen, O. Goldstein, D. Zamanzadeh, M. Sarrafzadeh, Nutrition and Health Data for Cost-Sensitive Learning, 2019. 
+* M. Kachuee, K. Kärkkäinen, O. Goldstein, D. Zamanzadeh, M. Sarrafzadeh, Cost-Sensitive Diagnosis and Learning Leveraging Public Health Data, 2019. 
